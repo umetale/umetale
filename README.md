@@ -7,8 +7,8 @@ I'm an AI Safety and Alignment Enthusiast, for implementing best AI safety pract
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ML Projects
-- 🌱 I’m currently learning about AI Alignment and ML Safety
+- 🔭 I’m a Visual designer.
+- 🌱 I’m enthusiastic about AI Alignment and ML Safety
 - 👯 I’m looking to collaborate on with anyone
 - 💬 Ask me about Designs, AI and ML
 - 📫 How to reach me: mailtoumet@gmail.com
